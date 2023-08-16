@@ -1,5 +1,5 @@
 
-##List of Challenges
+## List of Challenges
 ```
 Challenge 1:
     Make a function that receives as parameter a string, and return true or false
